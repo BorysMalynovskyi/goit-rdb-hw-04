@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/repos/Neoversity/RelationalDB/goit-rdb-hw-03/**)",
+      "Bash(mv 4_3_employee_filter.sql 4_4_employee_filter.sql)",
+      "Bash(mv 4_4_group_by.sql 4_5_group_by.sql)",
+      "Bash(mv 4_5_having.sql 4_6_having.sql)",
+      "Bash(mv 4_6_order_by.sql 4_7_order_by.sql)",
+      "Bash(mv 4_7_limit_offset.sql 4_8_limit_offset.sql)"
+    ]
+  }
+}
